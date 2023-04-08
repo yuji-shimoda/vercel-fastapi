@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 fastapi = "*"
+supabase = "*"
+pydantic = "*"
 
 [dev-packages]
 
